@@ -15,79 +15,79 @@ export default function ShowMenu() {
     {
       id: 1,
       name: "Burger",
-      image: "/public/images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
+      image: "./images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
       price: "$7.5",
     },
     {
       id: 2,
       name: "Burger Deluxe",
-      image: "/public/images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
+      image: "./images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
       price: "$7.5",
     },
     {
       id: 3,
       name: "Ramen",
-      image: "/public/images/ramen-removebg-preview.png",
+      image: "./images/ramen-removebg-preview.png",
       price: "$7.2",
     },
     {
       id: 4,
       name: "Cupcake",
-      image: "/public/images/Freshly_cupcake_-5-removebg-preview.png",
+      image: "./images/Freshly_cupcake_-5-removebg-preview.png",
       price: "$",
     },
     {
       id: 6,
       name: "Burger Wumbo",
-      image: "/public/images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
+      image: "./images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
       price: "$7.5",
     },
     {
       id: 7,
       name: "Burger Mini",
-      image: "/public/images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
+      image: "./images/Fresh_beef_burger_isolated_-1-removebg-preview.png",
       price: "$7.5",
     },
     {
       id: 8,
       name: "Ramen Mini",
-      image: "/public/images/ramen-removebg-preview.png",
+      image: "./images/ramen-removebg-preview.png",
       price: "$7.2",
     },
     {
       id: 9,
       name: "Ramen Besar",
-      image: "/public/images/ramen-removebg-preview.png",
+      image: "./images/ramen-removebg-preview.png",
       price: "$7.2",
     },
     {
       id: 10,
       name: "Ramen Cup",
-      image: "/public/images/ramen-removebg-preview.png",
+      image: "./images/ramen-removebg-preview.png",
       price: "$7.2",
     },
     {
       id: 11,
       name: "California Pizza",
-      image: "/public/images/Pizza 1.png",
+      image: "./images/Pizza 1.png",
       price: "$7.2",
     },
     {
       id: 12,
       name: "Pepperoni Pizza",
-      image: "/public/images/Pizza 2.png",
+      image: "./images/Pizza 2.png",
       price: "$7.5",
     },
     {
       id: 14,
       name: "Beef Pizza",
-      image: "/public/images/Pizza 3.png",
+      image: "./images/Pizza 3.png",
       price: "$7.2",
     },
     {
       id: 15,
       name: "Mushroom Pizza",
-      image: "/public/images/Pizza 4.png",
+      image: "./images/Pizza 4.png",
       price: "$7.2",
     },
   ];
@@ -115,7 +115,7 @@ export default function ShowMenu() {
               <span className=" bg-white rounded-full p-1">
                 <img
                   className="max-h-[20px] "
-                  src="/public/images/pizza-icon.png"
+                  src="./images/pizza-icon.png"
                   alt=""
                 />
               </span>
@@ -129,7 +129,7 @@ export default function ShowMenu() {
               <span className=" bg-white rounded-full p-1">
                 <img
                   className="max-h-[20px] "
-                  src="/public/images/burger-icon.png"
+                  src="./images/burger-icon.png"
                   alt=""
                 />
               </span>
@@ -143,7 +143,7 @@ export default function ShowMenu() {
               <span className=" bg-white rounded-full p-1">
                 <img
                   className="max-h-[20px] "
-                  src="/public/images/cupcake-icon.png"
+                  src="./images/cupcake-icon.png"
                   alt=""
                 />
               </span>
@@ -157,7 +157,7 @@ export default function ShowMenu() {
               <span className=" bg-white rounded-full p-1">
                 <img
                   className="max-h-[20px] "
-                  src="/public/images/ramen-icon.png"
+                  src="./images/ramen-icon.png"
                   alt=""
                 />
               </span>
