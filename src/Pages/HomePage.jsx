@@ -1,9 +1,11 @@
 import Customers from "../Components/Customers";
 import Footer from "../Components/Footer";
 import GetApp from "../Components/GetApp";
+import ShowMenu from '../Components/ShowMenu';
 import Hero from "../Components/Home";
 import Nav from "../Components/Nav";
 import Services from "../Components/Services";
+
 
 export default function HomePage() {
     return (
@@ -11,6 +13,7 @@ export default function HomePage() {
             <Nav />
             <Hero />
             <Services />
+            <ShowMenu/>
             <Customers/>  
             <GetApp/> 
             <Footer/>
