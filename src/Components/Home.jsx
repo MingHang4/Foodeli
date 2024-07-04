@@ -20,6 +20,12 @@ export default function Hero() {
                 <div>
                     <img className="h-auto max-w-full rounded-lg" src="./images/hero.png" alt="" srcset="" />
                 </div>
+                <div className="flex -space-x-4 rtl:space-x-reverse">
+                <img src="./images/Ellipse 5.png" alt="" />
+                <img src="./images/Ellipse 6.png" alt="" />
+                <img src="./images/Ellipse 7.png" alt="" />    
+                <img className="pl-5" src="./images/Group 8.png" alt="" />           
+                </div>
             </div>
         </section>
 
